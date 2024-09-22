@@ -1,0 +1,17 @@
+# Ignorar archivos y carpetas generados por Visual Studio
+.vs/
+*.user
+*.suo
+*.csproj.user
+*.vscode/
+*.cache/
+*.dll
+*.exe
+*.pdb
+*.dbmdl
+*.jfm
+*.log
+*.ipr
+*.iws
+*.idea/
+*.sln.docstates

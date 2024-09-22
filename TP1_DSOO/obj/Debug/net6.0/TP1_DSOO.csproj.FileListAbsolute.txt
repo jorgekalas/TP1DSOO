@@ -1,0 +1,14 @@
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\bin\Debug\net6.0\TP1_DSOO.exe
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\bin\Debug\net6.0\TP1_DSOO.deps.json
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\bin\Debug\net6.0\TP1_DSOO.runtimeconfig.json
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\bin\Debug\net6.0\TP1_DSOO.dll
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\bin\Debug\net6.0\TP1_DSOO.pdb
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\obj\Debug\net6.0\TP1_DSOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\obj\Debug\net6.0\TP1_DSOO.AssemblyInfoInputs.cache
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\obj\Debug\net6.0\TP1_DSOO.AssemblyInfo.cs
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\obj\Debug\net6.0\TP1_DSOO.csproj.CoreCompileInputs.cache
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\obj\Debug\net6.0\TP1_DSOO.dll
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\obj\Debug\net6.0\refint\TP1_DSOO.dll
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\obj\Debug\net6.0\TP1_DSOO.pdb
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\obj\Debug\net6.0\TP1_DSOO.genruntimeconfig.cache
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\obj\Debug\net6.0\ref\TP1_DSOO.dll
