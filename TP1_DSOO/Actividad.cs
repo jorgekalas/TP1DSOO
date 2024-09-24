@@ -50,7 +50,7 @@ namespace TP1_DSOO
         // MÉTODO TO STRING
         public override string ToString()
         {
-            return $"{nombre} - Cupos disponibles: {cuposDisponibles}";
+            return $"{nombre} | Cupos disponibles: {cuposDisponibles}";
         }
     }
 }

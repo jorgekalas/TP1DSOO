@@ -40,13 +40,13 @@ namespace TP1_DSOO
             // Si no hay inscripciones, devolver un mensaje
             if (inscripciones.Count == 0)
             {
-                return $"Nombre: {nombre} | Apellido: {apellido} | No tiene actividades inscriptas.";
+                return $" Id: {id_socio} | Nombre: {nombre} | Apellido: {apellido} | No tiene actividades inscriptas.";
             }
 
             // Crear una cadena con los nombres de las actividades inscriptas
             string actividadesInscriptas = string.Join(", ", inscripciones.Select(a => a.Nombre));
 
-            return $"Nombre: {nombre} | Apellido: {apellido} | Lista de actividades: {actividadesInscriptas}";
+            return $" Id: {id_socio} | Nombre: {nombre} | Apellido: {apellido} | Lista de actividades: {actividadesInscriptas}";
         }
     } 
 }

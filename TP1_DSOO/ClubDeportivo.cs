@@ -33,10 +33,14 @@ namespace TP1_DSOO
         }
 
         // MÉTODO PARA DAR DE ALTA UN SOCIO
-        public string AltaSocio(int idSocio, string nombre, string apellido)
+
+
+        public string AltaSocio( string nombre, string apellido)
         {
-            if (!socios.Any(s => s.Id_socio == idSocio))
+            int idSocio = ObtenerMaximoIdSocio() +1;
+            if (!socios.Any(s => s.Nombre == nombre && s.Apellido == apellido))
             {
+                
                 Socio nuevoSocio = new Socio(idSocio, nombre, apellido);
                 socios.Add(nuevoSocio);
                 return "Socio registrado exitosamente.";
@@ -93,12 +97,29 @@ namespace TP1_DSOO
             return socio;
         }
 
+        public int ObtenerMaximoIdSocio() {
+            if (socios.Count == 0)
+            {
+                return 0;
+            }
+            return socios.Max(s => s.Id_socio);
+        }
+
+        public int ObtenerMaximoIdActividad()
+        {
+            if (actividades.Count == 0)
+            {
+                return 0;
+            }
+            return actividades.Max(a => a.Id_actividad);
+        }
 
 
 
         // MÉTODO PARA AGREGAR UNA ACTIVIDAD AL CLUB
-        public void AgregarActividad(int id_actividad, string nombre, int cuposDisponibles)
+        public void AgregarActividad( string nombre, int cuposDisponibles)
         {
+            int id_actividad = ObtenerMaximoIdActividad() + 1;
             Actividad nuevaActividad = new Actividad(id_actividad, nombre, cuposDisponibles);
             actividades.Add(nuevaActividad);
         }

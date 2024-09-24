@@ -12,3 +12,4 @@ D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo d
 D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\obj\Debug\net6.0\TP1_DSOO.pdb
 D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\obj\Debug\net6.0\TP1_DSOO.genruntimeconfig.cache
 D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\obj\Debug\net6.0\ref\TP1_DSOO.dll
+D:\Tecnicatura en Desarrollo de Software\02 - Segundo Semestre\01 - Desarrollo de Sistemas Orientado a Objetos\TP1_DSOO\TP1_DSOO\obj\Debug\net6.0\TP1_DSOO.sourcelink.json

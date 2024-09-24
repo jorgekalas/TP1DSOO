@@ -10,17 +10,19 @@ namespace TP1_DSOO
             ClubDeportivo club = new ClubDeportivo();
 
             // Agregar algunas actividades deportivas con ID de actividad
-            club.AgregarActividad(1, "Fútbol", 10);    // ID: 1
-            club.AgregarActividad(2, "Tenis", 5);      // ID: 2
-            club.AgregarActividad(3, "Natación", 8);   // ID: 3
+            club.AgregarActividad("Fútbol", 10);    // ID: 1
+            club.AgregarActividad("Tenis", 5);      // ID: 2
+            club.AgregarActividad("Natación", 8);   // ID: 3
+            club.AgregarActividad("Básquet", 7);    // ID: 4
 
-            // Dar de alta algunos socios
-            Console.WriteLine(club.AltaSocio(1, "Juan", "Pérez"));
-            Console.WriteLine(club.AltaSocio(2, "María", "Gómez"));
-            Console.WriteLine(club.AltaSocio(3, "Carlos", "Sánchez"));
+            // Dar de alta algunos socios 
+            Console.WriteLine(club.AltaSocio( "Juan", "Pérez"));
+            Console.WriteLine(club.AltaSocio( "María", "Gómez"));
+            Console.WriteLine(club.AltaSocio( "Carlos", "Sánchez"));
+            Console.WriteLine(club.AltaSocio("Carla", "Sánchez"));
 
             // Intentar inscribir socios en actividades usando el nombre de la actividad
-            Console.WriteLine(club.InscribirActividad("Fútbol", 1));  // INSCRIPCIÓN EXITOSA
+            Console.WriteLine(club.InscribirActividad("Fútbol", 2));  // INSCRIPCIÓN EXITOSA
             Console.WriteLine(club.InscribirActividad("Tenis", 1));   // INSCRIPCIÓN EXITOSA
             Console.WriteLine(club.InscribirActividad("Natación", 1));  // INSCRIPCIÓN EXITOSA
             Console.WriteLine(club.InscribirActividad("Natación", 1));  // TOPE DE ACTIVIDADES ALCANZADO
